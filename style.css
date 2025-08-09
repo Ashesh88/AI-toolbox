@@ -141,7 +141,7 @@ h1 {
   background: linear-gradient(135deg, #ff00cc, #333399);
 }
 .loveable .tool-icon {
-  background: linear-gradient(135deg, #1d23ba, #ff1493);
+  background: linear-gradient(135deg, #10a37f, #0d8a6c);
 }
 
 footer {
@@ -168,4 +168,3 @@ footer {
     border: 1px solid rgba(255, 255, 255, 0.05);
   }
 }
-
