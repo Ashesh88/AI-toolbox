@@ -140,8 +140,8 @@ h1 {
 .groq .tool-icon {
   background: linear-gradient(135deg, #ff00cc, #333399);
 }
-.loveable .tool-icon {
-  background: linear-gradient(135deg, #ff69b4, #ff1493);
+.loveable.tool-icon {
+  background: linear-gradient(135deg, #1d23ba, #ff1493);
 }
 
 footer {
